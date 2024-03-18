@@ -72,7 +72,7 @@ Click On The Link To Donate ME...
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
 | AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 3.0        |
 | Downloader Commands              | Download various types of content from the internet     | ✅           | 3.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
+| NSFW Commands                    | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
 | Logo Commands                    | Generate logos using specialized commands               | ✅           | 3.0        |
 | Anime Commands                   | Explore anime-related commands and features             | ✅           | 3.0        |
 | Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
