@@ -16,8 +16,8 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
+ //  * @project_name : 𝑴𝑰𝑻𝑯𝑨𝑳𝑬𝑺𝑯 𝒀𝑨𝑫𝑨𝑽
+ //  * @author : 𝑀𝐼𝑇𝐻𝐴𝐿𝐸𝑆𝐻
  //  * @youtube : https://www.youtube.com/@s4salmanyt
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
@@ -50,11 +50,11 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || '𝗠𝗜𝗧𝗛𝗔𝗟𝗘𝗦𝗛 //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '916207629435' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'M̶I̶T̶H̶A̶L̶E̶S̶H̶ //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
@@ -66,15 +66,15 @@ global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "Mithalesh Yadav"
 //________________________________________________________________________________________________________
 global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "916207629435@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
+global.premium = process.env.GL_VIP || ["916207629435"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
@@ -104,7 +104,7 @@ global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update message
 //msg
 global.mess = {
 	limit: '_*Your limit is up!*_',
-	nsfw: '_*Nsfw is disabled in this group, Please tell the admin to enable*_',
+	nsfw: '_*Nsfw is enable in this group, Please tell the admin to enable*_',
     done: '_*Done ✓*_',
     error: '_*I am having error to execute this*_',
     success: '_*Here you go!*_'
